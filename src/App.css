@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.mainpage {
+  display: flex;
+  width: 1440px;
+  height: 922px;
+  padding: 16px;
+  align-items: flex-start;
+  gap: 16px;
+  border-radius: 32px;
+  background: var(--Off-White, #F6F6F3);
+}
